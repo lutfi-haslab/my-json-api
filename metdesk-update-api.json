@@ -1,0 +1,55 @@
+{
+  "updates": {
+    "version": "2.8.4",
+    "type": "minor",
+    "releaseDate": "2026-04-29",
+    "summary": "Pembaruan UI dan peningkatan performa minor.",
+    "changelog": [
+      {
+        "type": "feature",
+        "category": "New",
+        "text": "Fitur Bulk Stamp untuk banyak dokumen sekaligus"
+      },
+      {
+        "type": "improvement",
+        "category": "Enhancement",
+        "text": "Kecepatan validasi dokumen PDF yang lebih optimal"
+      },
+      {
+        "type": "security",
+        "category": "Security",
+        "text": "Pembaruan sistem enkripsi ke versi terbaru"
+      },
+      {
+        "type": "fix",
+        "category": "Bug Fix",
+        "text": "Perbaikan bug minor pada tampilan riwayat"
+      }
+    ],
+    "downloads": {
+      "windows": {
+        "url": "https://example.com/download/metdesk-v2.exe",
+        "size": 105600,
+        "sizeUnit": "KB"
+      },
+      "macos": {
+        "url": "https://pub-70882f3c5a8e4f4591a4507e295b6093.r2.dev/metdesk/METDesk.dmg",
+        "size": 124800,
+        "sizeUnit": "KB"
+      }
+    },
+    "forceUpdate": false,
+    "minVersion": "2.0.0"
+  },
+  "license": {
+    "valid": true,
+    "message": "License is valid",
+    "expiry": "2026-08-30",
+    "client_id": "METDESK-MOCK-CLIENT-123"
+  },
+  "quota": {
+    "success": true,
+    "balance": 0,
+    "unstampedCount": 12
+  }
+}
