@@ -44,7 +44,7 @@
   "license": {
     "valid": false,
     "message": "License is valid",
-    "expiry": "2026-05-1",
+    "expiry": "2026-04-31",
     "client_id": "METDESK-MOCK-CLIENT-123"
   },
   "quota": {
