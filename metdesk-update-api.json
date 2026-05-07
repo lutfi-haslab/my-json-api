@@ -42,9 +42,9 @@
     "minVersion": "2.0.0"
   },
   "license": {
-    "valid": true,
+    "valid": false,
     "message": "License is valid",
-    "expiry": "2026-08-30",
+    "expiry": "2026-05-1",
     "client_id": "METDESK-MOCK-CLIENT-123"
   },
   "quota": {
