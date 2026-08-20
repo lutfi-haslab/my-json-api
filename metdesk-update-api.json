@@ -49,7 +49,7 @@
   },
   "quota": {
     "success": true,
-    "balance": 10,
-    "unstampedCount": 12
+    "balance": 0,
+    "unstampedCount": 0
   }
 }
